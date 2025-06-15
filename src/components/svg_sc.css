@@ -1,0 +1,56 @@
+
+         .cls-intro-mobile1 {
+                    fill-rule: evenodd;
+                  }
+                  .cls-intro-mobile1,
+                  .cls-intro-mobile2 {
+                    fill: #fff;
+                  }
+                  .cls-intro-mobile4 {
+                    fill: none;
+                    stroke: #fff;
+                    stroke-miterlimit: 10;
+                    stroke-width: 2px;
+                  }
+
+
+                  .cls-tree-mobile-1 {
+                    fill: #09513c;
+                  }
+                  .cls-tree-mobile-1,
+                  .cls-tree-mobile-2,
+                  .cls-tree-mobile-3 {
+                    fill-rule: evenodd;
+                  }
+                  .cls-tree-mobile-2 {
+                    fill: #012d20;
+                  }
+                  .cls-tree-mobile-3 {
+                    fill: #043;
+                  }
+
+
+    .cls-intro-1 {
+                    fill-rule: evenodd;
+                  }
+                  .cls-intro-1,
+                  .cls-intro-2 {
+                    fill: #fff;
+                  }
+                  .cls-intro-4 {
+                    stroke: #fff;
+                    fill: none;
+                    stroke-miterlimit: 10;
+                    stroke-width: 2px;
+                  }
+                  
+
+
+                   .cls-tree-3,
+                  .cls-tree-4 {
+                    fill: #012d20;
+                    fill-rule: evenodd;
+                  }
+                  .cls-tree-4 {
+                    fill: #043;
+                  }

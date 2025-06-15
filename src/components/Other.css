@@ -1,0 +1,48 @@
+.cls-intro-1 {
+                                        fill-rule: evenodd;
+                                    }
+
+                                    .cls-intro-1, .cls-intro-2 {
+                                        fill: #fff;
+                                    }
+
+                                    .cls-intro-4 {
+                                        stroke: #fff;
+                                        fill: none;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 2px;
+                                    }
+                                    .cls-100prozent-2 {
+                                        fill: #0c735f;
+                                    }
+
+                                    .cls-100prozent-3 {
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 4px;
+                                    }
+
+                                    @media(max-width:959px)
+                                    {
+                                                          .cls-100prozent-mobile-2 {
+                    fill: #0c735f;
+                  }
+                  .cls-100prozent-mobile-3 {
+                    fill: none;
+                    stroke: #fff;
+                    stroke-miterlimit: 10;
+                    stroke-width: 4px;
+                  }
+                                    }
+                                    @media(min-width:960px){
+                                        .cls-100prozent-2 {
+                    fill: #0c735f;
+                  }
+                  .cls-100prozent-3 {
+                    fill: none;
+                    stroke: #fff;
+                    stroke-miterlimit: 10;
+                    stroke-width: 4px;
+                  }
+                                    }

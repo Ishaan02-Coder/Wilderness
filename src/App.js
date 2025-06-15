@@ -1,23 +1,18 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Header from './components/Arrow';
+import Intro from './components/other_part';
+import AnimatedSection from './components/1st_part';
+import ProgressBar from './ProgressBar';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <ProgressBar />
+      <Header/>
+      
+    <AnimatedSection/>
+    <Intro/>
     </div>
   );
 }
