@@ -1,12 +1,4 @@
-// File Structure Suggestion (continued):
-// - components/
-//     ├── CommonRefs.js             ✅ done earlier
-//     ├── SectionTwoAnimation.jsx   ✅ desktop version done
-//     ├── SectionThreeAnimation.jsx ✅ done
-//     ├── Section2Animation.jsx     ✅ now mobile+desktop version
-//     └── OtherSVGContent.jsx       ✅ done
 
-// Section2Animation.jsx
 import { useEffect } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
