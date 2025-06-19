@@ -2,10 +2,10 @@ import React, { useRef, useEffect } from 'react';
 import { gsap } from 'gsap';
 
 const Arrow = () => {
-  const svgRef = useRef(null);
+  const abwScrollDownRef = useRef(null);
 
   useEffect(() => {
-    gsap.to(svgRef.current, {
+    gsap.to(abwScrollDownRef.current, {
       y: -20,            // move up 20px
       duration: 1.0,
       repeat: -1,        // infinite loop
@@ -16,7 +16,7 @@ const Arrow = () => {
 
   return (
     <svg
-      ref={svgRef}
+      ref={abwScrollDownRef}
       id="abw_scroll_down"
       viewBox="0 0 97 96"
       xmlns="http://www.w3.org/2000/svg"
