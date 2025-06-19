@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Wilderness/static/css/main.d8f788c6.css",
-    "main.js": "/Wilderness/static/js/main.a8dd86a1.js",
+    "main.css": "/Wilderness/static/css/main.868b4801.css",
+    "main.js": "/Wilderness/static/js/main.300f6262.js",
     "static/js/453.7cb31ee3.chunk.js": "/Wilderness/static/js/453.7cb31ee3.chunk.js",
     "index.html": "/Wilderness/index.html",
-    "main.d8f788c6.css.map": "/Wilderness/static/css/main.d8f788c6.css.map",
-    "main.a8dd86a1.js.map": "/Wilderness/static/js/main.a8dd86a1.js.map",
+    "main.868b4801.css.map": "/Wilderness/static/css/main.868b4801.css.map",
+    "main.300f6262.js.map": "/Wilderness/static/js/main.300f6262.js.map",
     "453.7cb31ee3.chunk.js.map": "/Wilderness/static/js/453.7cb31ee3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8f788c6.css",
-    "static/js/main.a8dd86a1.js"
+    "static/css/main.868b4801.css",
+    "static/js/main.300f6262.js"
   ]
 }
