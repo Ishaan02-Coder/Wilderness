@@ -196,7 +196,7 @@ const AnimatedSection = () => {
         .to("body", { backgroundColor: "#47B27A" }, { backgroundColor: "#13735F", duration: 2 }, 0)
         
         .to(".aw_btn_download", { opacity: 1, yPercent: 0 }, 0.5)
-        .fromTo(liane1Ref.current, { drawSVG: "100% 100%" }, { drawSVG: "0% 100%", duration: 6 }, 1)
+        .fromTo(liane1MobileRef.current, { drawSVG: "100% 100%" }, { drawSVG: "0% 100%", duration: 6 }, 1)
         
         .fromTo("body", { backgroundColor: "#13735F" }, { backgroundColor: "#E6CE00", duration: 2  }, "-=2");
     });
